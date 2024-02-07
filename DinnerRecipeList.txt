@@ -1,0 +1,440 @@
+RECIPE: Chicken Curry
+
+**TAGS: chicken, rice**
+
+Servings: 6
+_
+SPICE BLEND:
+Ground_Coriander 1.5 tsp
+Ground_Cumin 1 tsp
+Tumeric 0.5 tsp
+Fennel_Seeds,crushed 0.5 tsp
+Cinnamon 0.5 tsp
+Pepper 0.5 tsp
+Ground_Mustard 0.25 tsp
+Ground_Cloves 0.25 tsp
+_
+CURRY:
+Olive_Oil 2 tbsp
+Onion 1 cup
+Garlic 4 cloves
+Ginger 1 tbsp
+Chicken_Broth 1 cup
+Diced_Tomatoes 0.75 cup
+Chicken_Breast,diced 1.5 lbs
+Cornstarch 1 tsp
+Water 2 tsp
+Heavy_Cream 0.33 cup
+_
+Instructions:
+1. Mix SPICE BLEND together, set aside.
+2. Saute ONION in OIL for 4-6 minutes on medium-high heat.
+3. Add GARLIC and GINGER, saute for 1 minutes, then add SPICE BLEND.
+4. Add CHICKEN BROTH and TOMATOES, bring to a boil. Reduce heat, simmer for 5 minutes.
+5. Blend mixture until well pureed. Return to skillet on medium-high heat.
+6. Add CHICKEN, simmer until cooked through.
+7. Mix CORNSTARCH and WATER and add to sauce.
+8. Serve over basmati rice.
+
+RECIPE: Chicken Gyros
+
+**TAGS: chicken**
+
+Servings: 6
+_
+CHICKEN MARINADE:
+Chicken_Breast 2 lbs
+Olive_Oil 2 tbsp
+Lemon_Juice 2 tbsp
+Paprika 2 tsp
+Cumin 2 tsp
+Garlic 2 cloves
+Tumeric 1 tsp
+Coriander 1 tsp
+Salt 1 tsp
+Pepper 0.25 tsp
+Onion_Powder 0.25 tsp
+Cinnamon 0.25 tsp
+Crushed_Red_Pepper 0.125 tsp
+_
+TZATZIKI SAUCE:
+Plain_Greek_Yogurt 1 cup
+Garlic 2 cloves
+Dill 0.5 tsp
+Lemon_Juice 2 tsp
+Cucumber 1 slice
+_
+TOPPINGS:
+Pita_Bread 6 bread
+Lettuce 1 head
+Tomatoes 1 cup
+Red_Onion 0.5 whole
+Cucumber 0.5 whole
+_
+Instructions:
+1. Add CHICKEN to ziplock bag. Mix all MARINADE ingredients and let marinade for 1-4 hours.
+2. Combine all TZATZIKI SAUCE ingredients.
+3. Grill CHICKEN.
+4. Serve on toasted PITA BREAD with other TOPPINGS.
+
+RECIPE: Arepas
+
+**TAGS: chicken**
+
+Servings: 4
+_
+CHICKEN AVOCADO MIX:
+Canned_Chicken 2 can
+Avocado 1 whole
+Mayonnaise 1.5 tbsp
+Lime_Juice 0.5 tbsp
+Red_Bell_Pepper 0.5 whole
+Onion 0.5 whole
+Jalapeno_Pepper 0.5 whole
+Garlic 1 tsp
+Salt 0.5 tsp
+Pepper 0.5 tsp
+_
+AREPAS:
+Corn_Flour 1.5 cup
+Warm_Water 1.5 cup
+Salt 0.5 tsp
+_
+Instructions:
+1. Mix all CHICKEN AVOCADO MIX ingredients together in a large bowl.
+2. Preheat oven to 350 degrees.
+3. Mix WARM WATER with SALT and kneed together with CORN FLOUR until smooth.
+4. Divide dough into even pieces, shape into disks.
+5. Sear arepas in skillet on medium heat.
+6. Cook for 15-20 minutes in the oven. Cut them in half and fill with the mix.
+
+RECIPE: Corn Chowder
+
+**Tags: soup, sausage**
+
+Servings: 6
+_
+Olive_Oil 1 tbsp
+Italian_Sausage 1 lbs
+Onion 1 whole
+Celery 1 cup
+Carrot 1 cup
+Potato 2.5 cup
+Garlic 6 cloves
+Crushed_Red_Pepper 1 tsp
+Flour 0.33 cup
+Cream_Style_Corn 2 can
+Corn 30 oz
+Chicken_Bouillon 2 tsp
+Parsley 1 tsp
+Oregano 0.5 tsp
+Thyme 0.5 tsp
+Salt 0.5 tsp
+Pepper 0.25
+Bay_Leaves 2 whole
+Cornstarch 2 tbsp
+Chicken_Broth 4 cup
+Half_N_Half 2 cup
+_
+Instructions:
+1.
+
+
+RECIPE: Smothered Baked Chicken Burritos
+
+**Tags: chicken, slow_cooker, rice**
+
+Servings: 6
+_
+SHREDDED CHICKEN:
+Chicken_Breast 2 lbs
+Olive_Oil 1 tbsp
+Salsa 0.5 cup
+Brown_Sugar 4 tbsp
+Diced_Green_Chilies 1 can
+Fire_Roasted_Diced_Tomatoes 1 can
+Chili_Powder 1 tbsp
+Salt 1.5 tbsp
+Cumin 1 tsp
+Garlic_Powder 1 tsp
+Onion_Powder 1 tsp
+Paprika 0.5 tsp
+Oregano 0.5 tsp
+Pepper 0.5 tsp
+Ground_Chipotle 0.5 tsp
+Liquid_Smoke 1 tsp
+Hot_Sauce 0.5 tbsp
+_
+SOUR CREAM SAUCE:
+Olive_Oil 2 tbsp
+Butter 1 tbsp
+Flour 3 tbsp
+Chicken_Broth 2 cup
+Cumin 0.5 tsp
+Salt 0.25 tsp
+Pepper 0.25 tsp
+Sour_Cream 0.5 cup
+Diced_Green_Chilies 1 can
+Cheddar_Cheese 0.5 cup
+_
+Burrito_Tortillas 6 whole
+Cheddar_Cheese 1 cup
+Rice 1 cup
+_
+Instructions:
+1.
+
+
+RECIPE: Peanut Thai Noodles
+
+**Tags: chicken, pasta, stir-fry**
+
+Servings: 6
+_
+NOODLES AND CHICKEN:
+Spaghetti 12 oz
+Chicken_Breast 1 lbs
+Ground_Ginger 1 tsp
+Garlic_Powder 1 tsp
+Coriander 0.5 tsp
+Turmeric 0.5 tsp
+Pepper 0.5 tsp
+Salt 0.25 tsp
+Olive_Oil 2 tbsp
+Coleslaw 1 bag
+_
+SAUCE:
+Coconut_Milk 1 can
+Cornstarch 1 tbsp
+Soy_Sauce 0.25 cup
+Brown_Sugar 0.25 cup
+Lime_Juice 2 tbsp
+Fish_Sauce 2 tbsp
+Chili_Sauce 1 tbsp
+Basil 1 tsp
+_
+ADD LATER:
+Peanut_Butter 0.33 cup
+_
+Instructions:
+1.
+
+
+RECIPE: Fried Rice
+
+**Tags: rice, stir-fry**
+
+Servings: 6
+_
+Smoked_Spam 0.5 can
+Cabbage 1.5 cup
+Celery 0.5 cup
+Onion 0.5 whole
+Carrot 0.5 cup
+Mushroom 0.5 cup
+Garlic 2 cloves
+Ginger 1 tsp
+Crushed_Red_Pepper 0.5 tsp
+Pepper 0.25 tsp
+Rice 3 cup
+Egg 2 whole
+Green_Onion 0.25 cup
+Peas 0.5 cup
+Soy_Sauce 2 tbsp
+Water 1 tbsp
+_
+Instructions:
+1.
+
+
+RECIPE: Beef Stroganoff
+
+**Tags: beef, pasta**
+
+Servings: 6
+_
+Mushrooms 8 oz
+Unsalted_Butter 2 tbsp
+Olive_Oil 1 tbsp
+Salt 0.25 tsp
+Pepper 0.25 tsp
+Ground_Beef 1 lbs
+Salt 0.5 tsp
+Pepper 0.25 tsp
+Onion 1 whole
+Garlic 6 cloves
+Flour 0.25 cup
+Beef_Broth 3 cups
+Worcestershire_Sauce 2 tbsp
+Dijon_Mustard 1.5 tsp
+Beef_Bouillon 1.5 tsp
+Parsley 1 tsp
+Paprika 0.5 tsp
+Oregano 0.25 tsp
+Thyme 0.25 tsp
+Crushed_Red_Pepper 0.25 tsp
+Cream_Cheese 2 oz
+Sour_Cream 0.5 cup
+Egg_Noodles 0.5 bag
+_
+Instructions:
+1.
+
+
+RECIPE: Quinoa Bowl
+
+**Tags: alt_protein**
+
+Servings: 6
+_
+Quinoa 1 cup
+Cucumbers 2 whole
+Tomatoes 1 cup
+Avocados 2 whole
+Red_Onion 0.5 whole
+_
+SMOKY CHICKPEAS:
+Chickpeas 1.5 cup
+Olive_Oil 3 tbsp
+Paprika 1 tsp
+Cumin 0.5 tsp
+Salt 0.25 tsp
+Cayenne 0.25 tsp
+_
+Instructions:
+1.
+
+
+RECIPE: Fish Tacos
+
+**Tags: fish**
+
+FISH:
+White_Fish 2 pounds
+Olive_Oil 0.25 cup
+Lime_Juice 0.25 cup
+Chili_Powder 2 tsp
+Cumin 2 tsp
+Garlic_Powder 1 tsp
+Paprika 1 tsp
+Salt 1 tsp
+Cayenne_Pepper 0.125 tsp
+_
+SAUCE:
+Sour_Cream 0.5 cup
+Mayonnaise 0.5 cup
+Lime_Juice 3 tbsp
+Sriracha_Sauce 1 tsp
+Garlic_Powder 1 tsp
+_
+TORTILLAS + TOPPINGS:
+Corn_Tortillas 12 6-inch
+Cabbage 0.25 head
+Avocado 1 whole
+_
+Instructions:
+1.
+
+
+RECIPE: Pad Kra Pow
+
+**Tags: pork, rice**
+
+Vegetable_Oil 3 tbsp
+Shallots 2 whole
+Garlic 7 cloves
+Thai_Chilies 3 whole
+Ground_Pork 1 lbs
+Sugar 1 tsp
+Fish_Sauce 1 tbsp
+Soy_Sauce 1 tbsp
+Oyster_Sauce 2 tsp
+Chicken_Broth 0.33 cup
+Basil 1.5 cup
+_
+Instructions:
+1.
+
+
+RECIPE: Alfredo
+
+**Tags: chicken, pasta**
+
+Fettuccine 1 lb
+Olive_Oil 2 tbsp
+Garlic 6 cloves
+Flour 0.25 cup
+Chicken_Broth 1.5 cup
+Milk 1.5 cup
+Onion_Powder 1 tsp
+Basil 1 tsp
+Parsley 1 tsp
+Salt 0.5 tsp
+Pepper 0.5 tsp
+Red_Pepper_Flakes 0.25 tsp
+Parmesan_Cheese 0.5 cup
+Mozzarella_Cheese 0.75 cup
+_
+Instructions:
+1.
+
+
+RECIPE: Pasta Chicken Salad
+
+**Tags: pasta, chicken**
+
+SALAD:
+Chicken_Breasts 1 pound
+Rotini 1 pound
+Olive_Oil 1 tbsp
+Red_Onion 0.5 chopped
+Garlic 6 cloves
+Tomatoes 8 whole
+Basil 0.25 cup
+Mozzarella 8 ounces
+Parmesan_Cheese 0.5 cup
+Croutons 0.25 cup
+_
+BALSAMIC_VINAIGRETTE:
+Olive_Oil 0.33 cup
+Balsamic_Vinegar 3 tbsp
+Honey 1 tbsp
+Dijon_Mustard 0.5 tbsp
+Basil 1 tsp
+Oregano 1 tsp
+Salt 0.5 tsp
+Garlic_Powder 0.5 tsp
+Parsley 0.5 tsp
+Pepper 0.5 tsp
+Red_Pepper_Flakes 0.25 tsp
+_
+Instructions:
+1.
+
+
+RECIPE: Chicken Parmesan
+
+**Tags: chicken**
+
+CHICKEN:
+Chicken_Breast 6 whole
+Eggs 2 whole
+Flour 0.33 cup
+Bread_Crumbs 1.5 cup
+Parmesan_Cheese 0.75 cup
+Parsley 0.5 tsp
+Basil 0.5 tsp
+Salt 0.5 tsp
+Paprika 0.5 tsp
+Onion_Powder 0.5 tsp
+Garlic_Powder 0.5 tsp
+Pepper 0.25 tsp
+Butter 4 tbsp
+Olive_Oil 0.25 cup
+_
+TOPPING:
+Mozzarella_Cheese 8 oz
+Parmesan_Cheese 0.25 cup
+_
+Instructions:
+1.
