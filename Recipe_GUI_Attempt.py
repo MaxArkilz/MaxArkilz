@@ -244,18 +244,20 @@ def edit_recipes(recipes):
         else:
             break
 
+    # get rid of instructions section
     index = recipe_dict[recipe_to_edit].index('Instructions:')
     instructions = recipe_dict[recipe_to_edit][index:]
     recipe_dict[recipe_to_edit] = recipe_dict[recipe_to_edit][:index]
 
-    print()
-    print(f'Ingredients for {recipe_to_edit}:')
-    for ingredient in recipe_dict[recipe_to_edit]:
-        print(f'- {ingredient}')
+    # TODO: convert list of ingredients to messagebox
+    # print()
+    # print(f'Ingredients for {recipe_to_edit}:')
+    # for ingredient in recipe_dict[recipe_to_edit]:
+        # print(f'- {ingredient}')
 
-    print()
     action = simpledialog.askstring("Input", "Do you want to (1) edit an existing ingredient or "
                                              "(2) add a new ingredient?\nEnter 1 or 2:")
+    # edit existing ingredient measurment
     if action == '1':
         ingredient_to_edit = simpledialog.askstring("Input", "Which ingredient do you want to edit?")
         new_measurement = simpledialog.askstring("Input", "Enter the new measurement:")
@@ -266,6 +268,7 @@ def edit_recipes(recipes):
                 parts[1] = new_measurement
                 recipe_dict[recipe_to_edit][i] = ' '.join(parts)
 
+    # append ingredient to current recipe
     elif action == '2':
         new_ingredient = simpledialog.askstring("Input", "Enter a new ingredient in the following form-\n"
                                                          "Ingredient measurement (i.e. Soy_Sauce 0.5 tbsp):")
@@ -273,6 +276,7 @@ def edit_recipes(recipes):
 
     recipe_dict[recipe_to_edit].extend(instructions)
 
+    # Update to display in messagebox
     print()
     print(f'Updated ingredients for {recipe_to_edit}:')
     for ingredient in recipe_dict[recipe_to_edit]:
@@ -281,6 +285,7 @@ def edit_recipes(recipes):
 
 
 def change_directory():
+    # work in progress - change infile from dinners to desserts
     options = ['Dinner', 'Desserts']
     directory = simpledialog.askstring("Input", "Select a directory: ")
     if directory == 'Dinner':
@@ -349,28 +354,8 @@ def main(infile):
 
 if __name__ == '__main__':
     infile = 'DinnerRecipeList.txt'
-    # outfile = 'new-recipes.txt'
     main(infile)
 
 
 
 
-    # def main(infile, outfile):
-    #     while True:
-    #         infile = infile
-    #         lines = readlines(infile)
-    #         # print_menu()
-    #         choice = simpledialog.askstring("Input", "1. Create Meal Plan\n 2.View Recipes\n 3. Edit recipes\n"
-    #                                         '4. Change Directory\n 5. Exit Program\n Enter your choice (1-5):')
-    #         if choice == '1':
-    #             create_meal_plan(lines)
-    #         elif choice == '2':
-    #             view_recipes(lines)
-    #         elif choice == '3':
-    #             edit_recipes(lines)
-    #         elif choice == '4':
-    #             infile = change_directory()
-    #         elif choice == '5' or '':
-    #             break
-    #         else:
-    #             messagebox.showinfo("Error", "Invalid choice. Please enter a whole number between 1 and 5.")
